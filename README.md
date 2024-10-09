@@ -24,6 +24,7 @@ Based on github-readme-stats:
 ### 📬 Contact
 You can reach me at [bvluong@wpi.edu](mailto:bvluong@wpi.edu).
 <br><br>
+Enjoy your stay!
 <p align="center"> 
     <img src="https://media1.tenor.com/m/r0R0N3dI3kIAAAAd/dancing-cat-dance.gif" width="297" height="498" />
 </p>
