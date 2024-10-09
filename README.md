@@ -25,5 +25,5 @@ Based on github-readme-stats:
 You can reach me at [bvluong@wpi.edu](mailto:bvluong@wpi.edu).
 
 <p align="center"> 
-    <img src="https://media.tenor.com/Ja06IuAEj34AAAAC/dancing-cat-dance.gif" width="297" height="498" />
+    <img src="https://media1.tenor.com/m/r0R0N3dI3kIAAAAd/dancing-cat-dance.gif" width="297" height="498" />
 </p>
