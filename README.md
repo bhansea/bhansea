@@ -19,7 +19,7 @@
 <br><br>
 Based on github-readme-stats:
 <br><br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhansea&layout=compact&theme=dark)
+![Most Used Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=bhansea&layout=compact&theme=dark)
 
 ### 📬 Contact
 You can reach me at [bvluong@wpi.edu](mailto:bvluong@wpi.edu).
