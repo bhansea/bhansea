@@ -16,8 +16,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
+<br>
 Based on github-readme-stats:
+<br><br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhansea&layout=compact&theme=dark)
 
 ### 📬 Contact
