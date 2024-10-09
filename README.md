@@ -6,6 +6,9 @@
 - 📚 Currently learning Next.js and cloud deployment. Check out [my website](https://brandon-luong.com)!
 - 🎯 Aspiring to solve real-world problems with technology.
 
+### 📂 Work
+Working at United Parcel Service (UPS) as an Enterprise Systems Management Infrastructure Intern.
+
 ### 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
