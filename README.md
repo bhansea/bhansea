@@ -7,7 +7,7 @@
 - 🎯 Aspiring to solve real-world problems with technology.
 
 ### 📂 Work
-Working at United Parcel Service (UPS) as an Enterprise Systems Management Infrastructure Intern.
+Working at United Parcel Service (UPS) as an Enterprise Systems Management Infrastructure Engineer.
 
 ### 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
